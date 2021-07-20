@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-chatbot": "0.0.1-alpha.12",
     "react-native-keychain": "^4.0.5",
     "react-native-login-screen": "^0.3.7",
