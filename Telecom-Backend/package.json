@@ -15,7 +15,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "fcm-node": "^1.5.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "ldap": "^0.7.1",
     "ldapjs": "^1.0.2",
     "ldapjs-client": "^0.1.1",
